@@ -3,56 +3,6 @@
 
 <p align="center"><strong>We push the boundaries of digital innovation.</strong></p>
 
-```cpp              
-                        
-                                                                 AAAAAA                                         
-                                                                AAAAAAAA                                        
-                                                               AAAAAAAAAA                                       
-                                                              AAAAA  AAAAA                                      
-                                                             AAAAA   AAAAAA                                     
-                                                            AAAAA      AAAAA                                    
-                                                           AAAAA       AAAAA                                    
-                                                          AAAAA         AAAAA                                   
-                                                         AAAAA           AAAAA                                  
-                                                        AAAAA             AAAAA                                 
-                                                       AAAAA               AAAAA                                
-                                                      AAAAA                 AAAAA                               
-                                                     AAAAA                   AAAAA                              
-                                                     AAAAA                    AAAAA                             
-                                                    AAAA                       AAAAA                            
-                                                   AAAAA                        AAAAA                           
-                                                  AAAAA                          AAAAA                          
-                                                 AAAAA                            AAAAA                         
-                                                AAAAA                              AAAAA                        
-                                               AAAAA                                AAAAA                       
-                                              AAAAA                                  AAAAA                      
-                                             AAAAA                                    AAAAA                     
-                                            AAAAA                                      AAAAA                    
-                                           AAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAA                   
-                                          AAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   AAAA                   
-                                         AAAAA   AAAA                             AAAA   AAAAA                  
-                                        AAAAA    AAAA                             AAAA    AAAAA                 
-                                        AAAA     AAAA                             AAAA     AAAAA                
-                                       AAAAA     AAAA                             AAAA      AAAAA               
-                                      AAAAA      AAAA                             AAAA       AAAAA              
-                                     AAAAA       AAAA                             AAAA        AAAAA             
-                                    AAAAA        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA         AAAAA            
-                                   AAAAA         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          AAAAA           
-                                  AAAAA                                                          AAAAA          
-                                 AAAAA                                                            AAAAA         
-                                AAAAA                                                              AAAAA        
-                               AAAAA                                                                AAAAA       
-                              AAAAA                                                                  AAAAA      
-                             AAAAA                                                                    AAAAA     
-                            AAAAA                                                                      AAAAA    
-                           AAAAA                                                                        AAAAAA   
-                          AAAAAA                                                                         AAAAAA   
-                          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
-                           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
-
-```
-
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Axinomyus.Axinomyus" alt="visitors">
 </p>
