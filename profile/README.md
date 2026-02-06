@@ -1,12 +1,91 @@
-## Hi there 👋
 
-<!--
+# Welcome to Axinomюs
 
-**Here are some ideas to get you started:**
+<p align="center"><strong>We push the boundaries of digital innovation.</strong></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```cpp              
+                        
+                                                                 AAAAAA                                         
+                                                                AAAAAAAA                                        
+                                                               AAAAAAAAAA                                       
+                                                              AAAAA  AAAAA                                      
+                                                             AAAAA   AAAAAA                                     
+                                                            AAAAA      AAAAA                                    
+                                                           AAAAA       AAAAA                                    
+                                                          AAAAA         AAAAA                                   
+                                                         AAAAA           AAAAA                                  
+                                                        AAAAA             AAAAA                                 
+                                                       AAAAA               AAAAA                                
+                                                      AAAAA                 AAAAA                               
+                                                     AAAAA                   AAAAA                              
+                                                     AAAAA                    AAAAA                             
+                                                    AAAA                       AAAAA                            
+                                                   AAAAA                        AAAAA                           
+                                                  AAAAA                          AAAAA                          
+                                                 AAAAA                            AAAAA                         
+                                                AAAAA                              AAAAA                        
+                                               AAAAA                                AAAAA                       
+                                              AAAAA                                  AAAAA                      
+                                             AAAAA                                    AAAAA                     
+                                            AAAAA                                      AAAAA                    
+                                           AAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAA                   
+                                          AAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   AAAA                   
+                                         AAAAA   AAAA                             AAAA   AAAAA                  
+                                        AAAAA    AAAA                             AAAA    AAAAA                 
+                                        AAAA     AAAA                             AAAA     AAAAA                
+                                       AAAAA     AAAA                             AAAA      AAAAA               
+                                      AAAAA      AAAA                             AAAA       AAAAA              
+                                     AAAAA       AAAA                             AAAA        AAAAA             
+                                    AAAAA        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA         AAAAA            
+                                   AAAAA         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          AAAAA           
+                                  AAAAA                                                          AAAAA          
+                                 AAAAA                                                            AAAAA         
+                                AAAAA                                                              AAAAA        
+                               AAAAA                                                                AAAAA       
+                              AAAAA                                                                  AAAAA      
+                             AAAAA                                                                    AAAAA     
+                            AAAAA                                                                      AAAAA    
+                           AAAAA                                                                        AAAAAA   
+                          AAAAAA                                                                         AAAAAA   
+                          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+                           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+
+```
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axinomyus.Axinomyus" alt="visitors">
+</p>
+
+**Axinomyus** (Axinomюs) is a technology company pushing the boundaries of digital innovation. We blend technology with creativity to deliver exceptional experiences—**made by humans, for humans.**
+
+### What we do
+
+We build cutting-edge solutions across the full stack:
+
+- 🌐 **Web & CMS** — Custom web applications and content management systems  
+- 🎮 **Games** — Interactive experiences and game development  
+- 📱 **Mobile & desktop apps** — iOS, Android, Windows, macOS, Linux  
+- 🎨 **Design** — 3D modeling, graphic design, and corporate identity  
+- 🤖 **AI & Web3** — API integrations, AI solutions, and blockchain tech  
+- 🔧 **DevOps, tools & browser extensions** — Infrastructure and developer tools  
+
+We’re also developing **Xintro Launcher** and an integrated **meta system** to reshape how people experience digital products.
+
+### Get in touch
+
+- **Website:** [axinomyus.com](https://axinomyus.com)  
+- **Documentation:** [axinomyus.com/documentation](https://axinomyus.com/documentation)  
+- **Contact:** [axinomyus.com/contact](https://axinomyus.com/contact)  
+
+### Connect with us
+
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/axinomyus)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/axinomyus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/axinomyus)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Axinomyus)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@axinomyus)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@axinomyus)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4UWM4CZP4E)
+
+*Founded in 2026 · Innovation era.*
